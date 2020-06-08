@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/03/23 15:08:02.609.dproj,D:\My Documents\RAD Studio\Projects\Project1.dproj=D:\My Documents\RAD Studio\Projects\Accessories.dproj</Transaction>
+    <Transaction>2018/03/23 15:08:30.343.pas,D:\My Documents\RAD Studio\Projects\Unit1.pas=D:\My Documents\RAD Studio\Projects\frmMain.pas</Transaction>
+    <Transaction>2018/03/23 15:08:30.343.dfm,D:\My Documents\RAD Studio\Projects\Unit1.dfm=D:\My Documents\RAD Studio\Projects\frmMain.dfm</Transaction>
+    <Transaction>2018/03/23 15:09:03.203.pas,D:\My Documents\RAD Studio\Projects\frmMain.pas=D:\User\DATA\Project\Acessories\frmMain.pas</Transaction>
+    <Transaction>2018/03/23 15:09:03.203.dfm,D:\My Documents\RAD Studio\Projects\frmMain.dfm=D:\User\DATA\Project\Acessories\frmMain.dfm</Transaction>
+    <Transaction>2018/03/23 15:09:05.640.dproj,D:\My Documents\RAD Studio\Projects\Accessories.dproj=D:\User\DATA\Project\Acessories\Accessories.dproj</Transaction>
+    <Transaction>2018/03/23 15:09:40.828.pas,D:\User\DATA\Project\Acessories\Unit2.pas=D:\User\DATA\Project\Acessories\Model.pas</Transaction>
+    <Transaction>2018/03/23 15:09:40.828.dfm,D:\User\DATA\Project\Acessories\Unit2.dfm=D:\User\DATA\Project\Acessories\Model.dfm</Transaction>
+    <Transaction>2018/03/23 15:10:33.875.pas,D:\User\DATA\Project\Acessories\frmMain.pas=D:\User\DATA\Project\Acessories\Main.pas</Transaction>
+    <Transaction>2018/03/23 15:10:33.875.dfm,D:\User\DATA\Project\Acessories\frmMain.dfm=D:\User\DATA\Project\Acessories\Main.dfm</Transaction>
+    <Transaction>2018/03/23 15:20:56.781.dproj,D:\User\DATA\Project\Acessories\Accessories.dproj=D:\User\DATA\Project\Acessories\MpeonAccessories.dproj</Transaction>
+    <Transaction>2018/03/23 15:22:10.922.dproj,D:\User\DATA\Project\Acessories\MpeonAccessories.dproj=D:\User\DATA\Project\Acessories\MpeonAcc.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
