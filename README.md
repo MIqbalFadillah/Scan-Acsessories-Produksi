@@ -4,7 +4,7 @@ Program ini menjalankan proses pemindaian data scan aksoseris pada produksi...
 ## Process Scan
 
 <p align="center">
-  <img src=""/>
+  <img src="https://user-images.githubusercontent.com/31466177/84245810-d135d480-ab2f-11ea-91b9-4ba8659d949d.gif"/>
 </p>
 
 
