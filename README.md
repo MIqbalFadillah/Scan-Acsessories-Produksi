@@ -8,6 +8,6 @@ Program ini menjalankan proses pemindaian data scan aksoseris pada produksi...
   
 ## Prerequisite
 - Database
-  -Microsoft SQL Server
+  - Microsoft SQL Server
 - Tools
   - Embarcadero Delphi 2007
