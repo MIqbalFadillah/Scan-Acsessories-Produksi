@@ -1,5 +1,13 @@
 # Scan-Acsessories-Produksi
 Program ini menjalankan proses pemindaian data scan aksoseris pada produksi...
+
+## Process Scan
+
+<p align="center">
+  <img src=""/>
+</p>
+
+
 ## <p>WorkFlowProcess<p>
   
  <p align="center">
